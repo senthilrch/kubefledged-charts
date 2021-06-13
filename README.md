@@ -1,4 +1,4 @@
-# Kubefledged-charts
+# Kube-fledged helm charts
 
 **_kube-fledged_** is a kubernetes add-on for creating and managing a cache of container images directly on the worker nodes of a kubernetes cluster. It allows a user to define a list
 of images and onto which worker nodes those images should be cached (i.e. pre-pulled). As a result, application pods start almost instantly, since the images need not be pulled from the registry.
