@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   kube-fledged:
   - apiVersion: v2
+    appVersion: v0.8.1
+    created: "2021-07-30T17:59:13.90803+05:30"
+    description: A Helm chart for deploying kube-fledged
+    digest: 2174e9fc8c5e0e72f559ac171ae90cc89b04ff174120aff62a855e7fc17c314d
+    name: kube-fledged
+    type: application
+    urls:
+    - https://senthilrch.github.io/kubefledged-charts/kube-fledged-v0.8.1.tgz
+    version: v0.8.1
+  - apiVersion: v2
     appVersion: v0.8.0
-    created: "2021-06-12T20:42:22.785821+05:30"
+    created: "2021-07-30T17:59:13.907354+05:30"
     description: A Helm chart for deploying kube-fledged
     digest: e8a62e3e22fdc80d55909125422108f31a7da34c52582ad0882980c752430614
     name: kube-fledged
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://senthilrch.github.io/kubefledged-charts/kube-fledged-v0.8.0.tgz
     version: v0.8.0
-generated: "2021-06-12T20:42:22.784322+05:30"
+generated: "2021-07-30T17:59:13.905777+05:30"

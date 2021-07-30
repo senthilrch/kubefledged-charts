@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: v0.8.1
+description: A Helm chart for deploying kube-fledged
+name: kube-fledged
+type: application
+version: v0.8.1
+
+...
+files:
+  kube-fledged-v0.8.1.tgz: sha256:2174e9fc8c5e0e72f559ac171ae90cc89b04ff174120aff62a855e7fc17c314d
+-----BEGIN PGP SIGNATURE-----
+
+wsBcBAEBCgAQBQJhA+/ACRCS15P6OmRg7QAAjAIIADby3LI86o2IfEnGAF+Pt6Gf
+P9FgiwORkOu64uwN/jLLDKvPgqsof354KwdiTEeBpWnPLvbtz8KebDjb8NQefbHY
+E35Q/LRGrz2wYyVN2QmQk5PZWLNDsE15n1Ph9ThgnvJB8Z9aKQdVKGG6i6qDlw7r
+pvp70gXfGtb5JfC3+c3TkSAr4NNIH7J2l7zSXDyoLrInfT3SZaFOJIiEG/F5Wkfm
+A9+5TiCIaalbdgThdD1rdEbFawSS8DjF0yijxN5A2iBtFHcpIvr55bwiwmFHTaYz
+ijY3xKoJ5zOiBYAxX9stGaJaPA5Wu80DASgwO9N2F/BF2THMtCQ86Pfp5U3ptkg=
+=iQ4F
+-----END PGP SIGNATURE-----
